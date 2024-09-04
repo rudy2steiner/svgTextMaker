@@ -39,3 +39,7 @@ jspm_packages
 #jekyll
 _site
 .jekyll-cache
+
+.idea
+*.iml
+
